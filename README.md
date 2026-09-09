@@ -12,10 +12,10 @@
 <br/>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
-<a href="https://www.linkedin.com/in/christos-giachoudis-26a168271/">
-  <img src="https://img.shields.io/badge/LinkedIn-6495ED?style=plastic&logo=inspire&logoColor=FFFFFF&logoSize=auto&labelColor=6495ED&color=000000
-  " />
-</a>
+<!-- <a href="https://www.linkedin.com/in/christos-giachoudis-26a168271/"> -->
+  <!-- <img src="https://img.shields.io/badge/LinkedIn-6495ED?style=plastic&logo=inspire&logoColor=FFFFFF&logoSize=auto&labelColor=6495ED&color=000000 -->
+  <!-- " /> -->
+<!-- </a> -->
 
 <a href="https://www.instagram.com/giahou2000/?hl=el">
   <img src="https://img.shields.io/badge/Instagram-D8524B?style=plastic&logo=instagram&logoColor=FFFFFF&logoSize=auto&labelColor=D8524B&color=000000
