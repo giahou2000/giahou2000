@@ -95,7 +95,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=giahou2000&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=auto&text=Thanks%20for%20stopping%20%20by&section=header&reversal=false&textBg=false&fontColor=FFFFFF&animation=fadeIn&stroke=1B1610&strokeWidth=3" alt="GitHub Streak" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Thanks%20for%20stopping%20by&section=header&textBg=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn" width="60%" />
 </picture>
 
 </div>
@@ -140,10 +140,10 @@
 
 <!-- ===================== FOOTER WAVE ===================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=auto&text=Thanks%20for%20stopping%20%20by&section=header&reversal=false&textBg=false&fontColor=FFFFFF&animation=fadeIn&stroke=1B1610&strokeWidth=3" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:67E8F9&height=120&section=footer" alt="Footer wave" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Thanks%20for%20stopping%20by&section=header&textBg=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&stroke=000000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Thanks%20for%20stopping%20by&section=header&textBg=false&fontColor=FFFFFF&fontSize=50&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Footer wave" width="100%" />
 </picture>
 
-<div align="center">
-  <sub>From <a href="https://github.com/giahou2000">giahou2000</a> — thanks for stopping by!</sub>
-</div>
+<!-- <div align="center"> -->
+  <!-- <sub>From <a href="https://github.com/giahou2000">giahou2000</a> — thanks for stopping by!</sub> -->
+<!-- </div> -->
