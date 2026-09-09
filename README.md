@@ -48,13 +48,28 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,matlab,c,cpp,git,figma&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,git,figma&theme=dark" alt="Tech stack icons" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Tech stack icons" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=matlab&theme=dark" />
   <img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="Tech stack icons" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="Tech stack icons" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="Tech stack icons" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tech stack icons" />
 </picture>
 
 </div>
