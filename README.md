@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- ===================== ANIMATED GLASSMORPHISM BANNER (custom SVG, native light/dark) ===================== -->
-<img src="./assets/banner.svg" alt="Animated banner" width="100%" />
+<!-- <img src="./banner.svg" alt="Animated banner" width="100%" /> -->
 
 <!-- ===================== TYPING EFFECT HEADLINE ===================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Christos+Giachoudis+%F0%9F%91%8B;Electrical+and+Computer+Engineer+%E2%98%95" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Christos+Giachoudis+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Enthusiast;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Christos+Giachoudis+%F0%9F%91%8B;Electrical+and+Computer+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Christos+Giachoudis+%F0%9F%91%8B;Christos+Giachoudis;Electrical+and+Computer+Engineer;" alt="Typing SVG" />
 </picture>
 
 <br/>
@@ -61,15 +61,15 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=giahou2000&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=giahou2000&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292F&ring_color=0969DA" alt="GitHub Stats" width="49%" />
-</picture>
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=giahou2000&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=giahou2000&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292F&ring_color=0969DA" alt="GitHub Stats" width="49%" /> -->
+<!-- </picture> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=giahou2000&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giahou2000&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F" alt="Top Languages" width="42%" />
-</picture>
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=giahou2000&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giahou2000&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F" alt="Top Languages" width="42%" /> -->
+<!-- </picture> -->
 
 <br/>
 
@@ -83,40 +83,40 @@
 <br/>
 
 <!-- ===================== CONTRIBUTION ACTIVITY GRAPH ===================== -->
-## &nbsp;📈&nbsp; Contribution Activity
+<!-- ## &nbsp;📈&nbsp; Contribution Activity -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=giahou2000&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giahou2000&theme=minimal&hide_border=true&bg_color=00000000&color=0969DA&line=0969DA&point=24292F" alt="Activity graph" width="100%" />
-</picture>
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=giahou2000&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" /> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=giahou2000&theme=minimal&hide_border=true&bg_color=00000000&color=0969DA&line=0969DA&point=24292F" alt="Activity graph" width="100%" /> -->
+<!-- </picture> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- ===================== ANIMATED CONTRIBUTION SNAKE ===================== -->
-<div align="center">
+<!-- <div align="center"> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
-  <img src="./assets/snake-light.svg" alt="Contribution snake animation" width="100%" />
-</picture>
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" /> -->
+  <!-- <img src="./assets/snake-light.svg" alt="Contribution snake animation" width="100%" /> -->
+<!-- </picture> -->
 
-</div>
+<!-- </div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- ===================== TROPHIES ===================== -->
-## &nbsp;🏆&nbsp; Trophies
+<!-- ## &nbsp;🏆&nbsp; Trophies -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=giahou2000&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=giahou2000&theme=flat&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</picture>
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=giahou2000&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" /> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=giahou2000&theme=flat&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" /> -->
+<!-- </picture> -->
 
-</div>
+<!-- </div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- ===================== FOOTER WAVE ===================== -->
 <picture>
@@ -125,5 +125,5 @@
 </picture>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/giahou2000">giahou2000</a> — thanks for stopping by!</sub>
+  <sub>From <a href="https://github.com/giahou2000">giahou2000</a> — thanks for stopping by!</sub>
 </div>
