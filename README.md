@@ -45,7 +45,7 @@
 <!-- ===================== TECH STACK ===================== -->
 ## &nbsp;🛠️&nbsp; Tech Stack
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark" />
@@ -72,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tech stack icons" />
 </picture>
 
-</div>
+<!-- </div> -->
 
 <br/>
 
