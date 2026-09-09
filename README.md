@@ -95,7 +95,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=giahou2000&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <img src="https://streak-stats.demolab.com?user=giahou2000&theme=transparent&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="GitHub Streak" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=auto&text=Thanks%20for%20stopping%20%20by&section=header&reversal=false&textBg=false&fontColor=FFFFFF&animation=fadeIn&stroke=1B1610&strokeWidth=3" alt="GitHub Streak" width="60%" />
 </picture>
 
 </div>
@@ -140,7 +140,7 @@
 
 <!-- ===================== FOOTER WAVE ===================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=auto&text=Thanks%20for%20stopping%20%20by&section=header&reversal=false&textBg=false&fontColor=FFFFFF&animation=fadeIn&stroke=1B1610&strokeWidth=3" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:67E8F9&height=120&section=footer" alt="Footer wave" width="100%" />
 </picture>
 
