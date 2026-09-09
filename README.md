@@ -13,10 +13,12 @@
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <a href="https://www.linkedin.com/in/christos-giachoudis-26a168271/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-6495ED?style=plastic&logo=inspire&logoColor=FFFFFF&logoSize=auto&labelColor=6495ED&color=000000
+  " />
 </a>
 <a href="https://www.instagram.com/giahou2000/?hl=el">
-  <img src="https://img.shields.io/badge/Instagram?style=plastic&logo=%23FF0069&logoColor=%23FF0069" />
+  <img src="https://img.shields.io/badge/Instagram-D8524B?style=plastic&logo=instagram&logoColor=FFFFFF&logoSize=auto&labelColor=D8524B&color=000000
+  " />
 </a>
 <!-- <a href="mailto:you@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
