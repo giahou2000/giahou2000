@@ -36,7 +36,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-000000?style=flat" />
 </picture>
 
-- &nbsp;I'm currently working on **Personal engineering projects(MATLAB simulations)**
+- &nbsp;I'm currently working on **Personal engineering projects (MATLAB simulations)**
 - &nbsp;I'm looking to work on **IoT projects/Embedded systems**
 - &nbsp;Ask me about **Optical WBANs**
 
@@ -45,7 +45,7 @@
 <!-- ===================== TECH STACK ===================== -->
 ## &nbsp;🛠️&nbsp; Tech Stack
 
-<!-- <div align="center"> -->
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark" />
@@ -72,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tech stack icons" />
 </picture>
 
-<!-- </div> -->
+</div>
 
 <br/>
 
