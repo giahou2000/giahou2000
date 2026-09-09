@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-6495ED?style=plastic&logo=inspire&logoColor=FFFFFF&logoSize=auto&labelColor=6495ED&color=000000
   " />
 </a>
+
 <a href="https://www.instagram.com/giahou2000/?hl=el">
   <img src="https://img.shields.io/badge/Instagram-D8524B?style=plastic&logo=instagram&logoColor=FFFFFF&logoSize=auto&labelColor=D8524B&color=000000
   " />
@@ -38,6 +39,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-000000?style=flat" />
 </picture>
 
+- &nbsp;I hold a **PhD in Electrical and Computer enginnering**
 - &nbsp;I'm currently working on **Personal engineering projects (MATLAB simulations)**
 - &nbsp;I'm looking to work on **IoT projects/Embedded systems**
 - &nbsp;Ask me about **Optical WBANs**
