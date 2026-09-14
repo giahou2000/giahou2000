@@ -80,7 +80,7 @@
 <br/>
 
 <!-- ===================== GITHUB STATS (glass-card style) ===================== -->
-## &nbsp;📊&nbsp; GitHub Stats
+<!-- ## &nbsp;📊&nbsp; GitHub Stats -->
 
 <div align="center">
 
