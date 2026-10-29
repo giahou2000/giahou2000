@@ -39,7 +39,7 @@
 </picture>
 
 - &nbsp;I hold a **PhD in Electrical and Computer enginnering**
-- &nbsp;I'm currently working on **Personal engineering projects (MATLAB simulations)**
+- &nbsp;I'm currently working on **Personal engineering projects**
 - &nbsp;I'm looking to work on **IoT projects/Embedded systems**
 - &nbsp;Ask me about **Optical WBANs**
 
